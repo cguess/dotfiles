@@ -13,10 +13,18 @@ sudo softwareupdate -i -a
 # To look up the install ID go to the store and "copy link"
 # and pull it from the URL
 echo "Installing Mac App Store apps..."
-mas install 692867256 # Simplenote
-mas install 413965349 # Soulver 2
-mas install 585829637 # Todoist
-mas install 1225570693 # Ulysses
+mas install 803453959 # Slack
+mas install 1091189122 # Bear, text-editor
+mas install 403388562 # Transmit, FTP
+mas install 409183694 # Keynote
+mas install 409201541 # Pages
+mas install 409203825 # Numbers
+mas install 926036361 # LastPass
+mas install 499340368 # Coda
+mas install 497799835 # XCode
+mas install 1440147259 # Adguard for Safari
+mas install 1481302432 # Instapaper
+mas install 1147396723 # WhatsApp
 
 # Manually copy from backup...
 # Tweetbot 2
