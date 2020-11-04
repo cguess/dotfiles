@@ -1,6 +1,7 @@
 # reefdog dotfiles
 
-I forked and modified this [Dan Schultz](https://github.com/slifty/dotfiles),
+I forked and modified this from [Justin Reese](https://github.com/reefdog/dotfils),
+who forked and modified this from [Dan Schultz](https://github.com/slifty/dotfiles),
 who in turn started from [Zach Holman's](https://github.com/holman/dotfiles).
 
 ## topical
@@ -29,6 +30,9 @@ There's a few special files in the hierarchy.
   your home directory. These get symlinked in when you run `script/bootstrap`.
 
 ## install
+
+Note: If you have a fresh MacOS install you need to first download 
+and install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12). Otherwise Git won't work.
 
 Run this:
 
