@@ -8,7 +8,7 @@
 # sh -c "macos/set-defaults.sh"
 
 echo "› sudo softwareupdate -i -a"
-sudo softwareupdate -i -a
+sudo softwareupdate -i -a --restart
 
 # To look up the install ID go to the store and "copy link"
 # and pull it from the URL
