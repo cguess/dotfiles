@@ -155,7 +155,7 @@ defaults write NSGlobalDomain InitialKeyRepeat -int 10
 # defaults write NSGlobalDomain AppleMetricUnits -bool true
 
 # Set the clock to 24-hour time.
-defaults write com.apple.menuextra.clock DateFormat -string 'EEE MMM d  H:mm:ss'
+defaults write com.apple.menuextra.clock DateFormat -string 'EEE MMM d  H:mm'
 
 # Show language menu in the top right corner of the boot screen
 sudo defaults write /Library/Preferences/com.apple.loginwindow showInputMenu -bool false
