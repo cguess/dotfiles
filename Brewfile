@@ -16,11 +16,9 @@ brew 'mas' # Mac App Store
 brew 'openssl'
 brew 'postgresql'
 brew 'python'
-brew 'python@2'
 brew 'rbenv'
 brew 'ruby-build' # rbenv installs it, but also, let's be explicit
 brew 'redis'
-brew 'sass'
 brew 'sqlite'
 brew 'vim'
 brew 'wget'
