@@ -35,6 +35,3 @@ mas install 1147396723 # WhatsApp
 
 # echo "Starting macOS services..."
 brew services start postgresql
-
-# echo "Installing global Bundler..."
-gem install bundler
