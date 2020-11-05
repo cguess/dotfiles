@@ -62,12 +62,12 @@ install_dotfiles () {
   done
 }
 
-install_xcode_tools () {
-}
+# install_xcode_tools () {
+# }
 
 setup_clone () {
   cd ~/
-  git clone https://github.com/reefdog/dotfiles.git .dotfiles
+  git clone https://github.com/cguess/dotfiles-1.git .dotfiles
   cd .dotfiles
 }
 
