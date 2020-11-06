@@ -12,6 +12,7 @@ brew 'git'
 brew 'heroku'
 brew 'htop'
 brew 'ffmpeg'
+brew 'gnupg'
 brew 'nvm'
 brew 'jenv'
 brew 'mas' # Mac App Store

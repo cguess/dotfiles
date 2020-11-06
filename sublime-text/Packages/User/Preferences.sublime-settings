@@ -1,0 +1,94 @@
+{
+	"added_words":
+	[
+		"js",
+		"css",
+		"stylesheets",
+		"svg",
+		"fortawesome",
+		"fontawesome",
+		"javascript",
+		"Webpack",
+		"eslint",
+		"app",
+		"precompiler",
+		"metaprogramming",
+		"curation",
+		"backend",
+		"websockets",
+		"popup",
+		"websocket",
+		"turbolinks",
+		"unrejected",
+		"unreviewed",
+		"rb",
+		"gardenbed",
+		"trackpad",
+		"iframe",
+		"smartphone",
+		"liveintheirworld",
+		"apps",
+		"repo",
+		"Gemfile",
+		"struct",
+		"admin",
+		"csrf",
+		"json",
+		"byebug",
+		"rubocop",
+		"rubygems",
+		"env",
+		"usr",
+		"flowerbox",
+		"erb",
+		"localhost",
+		"tmux",
+		"htop",
+		"rvm",
+		"Groundskeeper",
+		"Elasticsearch",
+		"nothing's",
+		"uuid",
+		"review's",
+		"nofollow",
+		"Online",
+		"params",
+		"versioning",
+		"url",
+		"janky",
+		"refactor",
+		"br"
+	],
+	"additional_path_items":
+	[
+		"/Users/christopher/.nvm/versions/node/v12.6.0/bin"
+	],
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"copy_with_empty_selection": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"GitStatusBar",
+		"Rust",
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"graphiql",
+		"javascripts"
+	],
+	"index_files": true,
+	"preview_on_click": false,
+	"rulers":
+	[
+		100
+	],
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

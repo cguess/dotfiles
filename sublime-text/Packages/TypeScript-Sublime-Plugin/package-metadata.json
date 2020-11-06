@@ -1,0 +1,1 @@
+{"sublime_text": "*", "platforms": ["*"], "version": "2020.08.20.15.23.44", "dependencies": [], "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins", "url": "https://github.com/microsoft/TypeScript-Sublime-Plugin"}

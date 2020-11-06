@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"Babel",
+		"Clipboard Manager",
+		"Conda",
+		"DashDoc",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"ERB Snippets",
+		"FileZilla SFTP Import",
+		"Fix Mac Path",
+		"GitGutter",
+		"GitStatusBar",
+		"Gradle_Language",
+		"JSX",
+		"LSP",
+		"MJML-syntax",
+		"Package Control",
+		"Rust Enhanced",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-contrib-erblint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-pylint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"TOML",
+		"TypeScript",
+		"TypeScript-Sublime-Plugin"
+	],
+	"repositories":
+	[
+		"https://github.com/allanhortle/JSX",
+		"https://github.com/Microsoft/TypeScript-Sublime-Plugin"
+	]
+}

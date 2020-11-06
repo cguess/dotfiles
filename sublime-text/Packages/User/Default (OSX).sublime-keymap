@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+shift+w"], "command": "run_macro_file", "args": {"file": "Packages/User/wrap_erb_ruby_tags.sublime-macro"} },
+  { "keys": ["ctrl+h"], "command": "dash_doc"}
+]
