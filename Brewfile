@@ -32,6 +32,7 @@ brew 'youtube-dl'
 brew 'z'
 brew 'zsh'
 brew 'zsh-completions'
+brew 'mattermost'
 
 # Applications
 cask '1password'
