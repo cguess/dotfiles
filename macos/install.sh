@@ -18,12 +18,15 @@ mas install 403388562 # Transmit, FTP
 mas install 409183694 # Keynote
 mas install 409201541 # Pages
 mas install 409203825 # Numbers
-mas install 926036361 # LastPass
 mas install 499340368 # Coda
 mas install 497799835 # XCode
 mas install 1440147259 # Adguard for Safari
 mas install 1481302432 # Instapaper
 mas install 1147396723 # WhatsApp
+mas install 1232780281 # Notion
+mas install 1137397744 # Bitwarden
+mas install 1480933944 # Vimari for Safari
+mas install 405843582 # Alfred
 
 # Manually copy from backup...
 # Tweetbot 2
@@ -31,6 +34,3 @@ mas install 1147396723 # WhatsApp
 
 # Manually install
 # Adobe Creative Cloud
-
-# echo "Starting macOS services..."
-brew services start postgresql

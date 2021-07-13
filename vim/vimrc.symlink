@@ -100,4 +100,19 @@ map <leader>l :set list!<CR> " Toggle tabs and EOL
 " colorscheme solarized
 
 " Fix the annoying visual mode on mouse select
-set mouse-=a 
+set mouse-=a
+
+call plug#begin()
+
+Plug 'preservim/nerdtree'
+
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
+
+Plug 'jiangmiao/auto-pairs'
+
+Plug 'tpope/vim-commentary'
+
+Plug 'tpope/vim-rails'
+
+call plug#end()

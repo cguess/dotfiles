@@ -1,8 +1,7 @@
-if test $(command -v nvm)
+if test $(command -v n)
 then
-  echo "Setting up Node via NVM..."
-  nvm install node
-  nvm alias default stable
+  echo "Setting up Node via N..."
+  sudo n lts
 fi
 
 if test $(which yarn)
