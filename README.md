@@ -1,4 +1,4 @@
-# reefdog dotfiles
+# cguess dotfiles
 
 I forked and modified this from [Justin Reese](https://github.com/reefdog/dotfils),
 who forked and modified this from [Dan Schultz](https://github.com/slifty/dotfiles),
@@ -37,7 +37,7 @@ and install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12). Othe
 Run this:
 
 ```sh
-git clone https://github.com/reefdog/dotfiles.git ~/.dotfiles
+git clone https://github.com/cguess/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
